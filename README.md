@@ -10,7 +10,8 @@ Currently, I am focused on **Multi-Step Visual Reasoning**: Using PyTorch to enh
 ### Skills
 
 - #### Programming Skills
-[![Python](https://img.shields.io/badge/Python-green)](https://github.com/yashikapatil27/Calorie-Counter-Application)
+[![Python](https://img.shields.io/badge/Python-green)](https://github.com/yashikapatil27/CodeDaily)
+[![C/C++](https://img.shields.io/badge/Python-green)](https://github.com/yashikapatil27/CodeDaily)
 [![MATLAB](https://img.shields.io/badge/MATLAB-red)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
 [![D3.js](https://img.shields.io/badge/D3.js-blue)](https://github.com/yashikapatil27/CIS568-Data-Visualization)
 [![HTML](https://img.shields.io/badge/HTML-orange)](https://github.com/yashikapatil27/CIS568-Data-Visualization)
