@@ -56,7 +56,12 @@ Currently, I am focused on **Multi-Step Visual Reasoning**: Using PyTorch to enh
 - #### Databases
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-orange)](https://github.com/yashikapatil27/Calorie-Counter-Application)
-
+<!--
+### 🏆 Achievements
+[![LeetCode badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/your_username)  
+ You can add more badges as needed, like: 
+[![LeetCode Problems Solved](https://img.shields.io/badge/Solved_Problems-500%2B-brightgreen)]
+-->
 
 ### Connect with Me
 
