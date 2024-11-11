@@ -5,7 +5,7 @@
 I’m a Data Science grad student at UMass Dartmouth with a Bachelor of Science in Data Science and Engineering from the Indian Institute of Science Education and Research, Bhopal. I work on making AI safer, particularly in advanced visual reasoning. By bridging the gap between visual perception and practical knowledge, I aim to make AI not only safer but also more impactful in real-world applications.
 
 ### 💻 Active Research
-Currently, I am focused on **Multi-Step Visual Reasoning**: Using PyTorch to enhance reasoning in vision and language models, utilizing the M3CoT benchmark and integrating Chain-of-Comparison (CoC) strategies.
+Currently, I am focused on **Multi-Step Visual Reasoning** to improve reasoning in vision and language models, utilizing the M3CoT benchmark and various reasoning strategies.
 
 ### Skills
 
