@@ -7,7 +7,7 @@ I’m a Data Science grad student at UMass Dartmouth with a Bachelor of Science 
 ### 🔭 Active Research
 My current research focuses on advancing Visual Reasoning to improve interpretation and reasoning in Vision and Language Models (VLMs and LLMs). By utilizing benchmarks and various reasoning strategies, I aim to push the boundaries of AI perception, reliability, and safety in real-world applications.
 
-### Skills
+### 🌱Skills
 
 - #### Programming Skills
 [![Python](https://img.shields.io/badge/Python-green)](https://github.com/yashikapatil27/CodeDaily)
