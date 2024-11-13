@@ -4,7 +4,7 @@
 
 I’m a Data Science grad student at UMass Dartmouth with a Bachelor of Science in Data Science and Engineering from the Indian Institute of Science Education and Research, Bhopal. I work on making AI safer, particularly in advanced visual reasoning. By bridging the gap between visual perception and practical knowledge, I aim to make AI not only safer but also more impactful in real-world applications.
 
-### 💻 Active Research
+### 🔭 Active Research
 My current research focuses on advancing Visual Reasoning to improve interpretation and reasoning in Vision and Language Models (VLMs and LLMs). By utilizing benchmarks and various reasoning strategies, I aim to push the boundaries of AI perception, reliability, and safety in real-world applications.
 
 ### Skills
@@ -63,9 +63,9 @@ My current research focuses on advancing Visual Reasoning to improve interpretat
 [![LeetCode Problems Solved](https://img.shields.io/badge/Solved_Problems-500%2B-brightgreen)]
 -->
 
-### Connect with Me
+### 📫How to reach me
 
-🚀 I’m always interested in collaborating on innovative projects that apply AI to solve real-world challenges. Let’s connect and chat about tech, automation, or anything data-related!
+I’m always interested in collaborating on innovative projects that apply AI to solve real-world challenges. Let’s connect and chat about tech, automation, or anything data-related!
 
 - [LinkedIn](https://www.linkedin.com/in/yashika--patil/)
 
