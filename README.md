@@ -65,8 +65,6 @@ My current research focuses on advancing Visual Reasoning to improve interpretat
 
 ### 📫How to reach me
 
-I’m always interested in collaborating on innovative projects that apply AI to solve real-world challenges. Let’s connect and chat about tech, automation, or anything data-related!
-
 - [LinkedIn](https://www.linkedin.com/in/yashika--patil/)
 
 
