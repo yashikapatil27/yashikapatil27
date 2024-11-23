@@ -5,7 +5,7 @@
 I’m a Data Science grad student at UMass Dartmouth with a Bachelor of Science in Data Science and Engineering from the Indian Institute of Science Education and Research, Bhopal. As part of my MS thesis, I am working on making AI safer, particularly in the area of advanced visual reasoning. By bridging the gap between visual perception and practical knowledge, I aim to make AI not only safer but also more impactful in real-world applications.
 
 ### 🔭 Active Research
-My current research focuses on advancing Visual Reasoning to improve interpretation and reasoning in Vision and Language Models (VLMs and LLMs). By utilizing benchmarks and various reasoning strategies, I aim to push the boundaries of AI perception, reliability, and safety in real-world applications.
+My current research focuses on advancing Visual Reasoning and involving Chain-of-Thought strategies to improve interpretation and decision-making in Vision Language Models (VLMs) and Large Language Models (LLMs). Using benchmarks and reasoning strategies, I aim to push the boundaries of AI perception, reliability, and safety.
 
 ### 🌱Skills
 
