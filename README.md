@@ -11,19 +11,19 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 
 - #### Programming Skills
 [![Python](https://img.shields.io/badge/Python-green)](https://github.com/yashikapatil27/CodeDaily)
-[![C/C++](https://img.shields.io/badge/C/C++-darkgreen)](https://github.com/yashikapatil27/CodeDaily)
-[![MATLAB](https://img.shields.io/badge/MATLAB-red)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
-[![D3.js](https://img.shields.io/badge/D3.js-blue)](https://github.com/yashikapatil27/CIS568-Data-Visualization)
-[![HTML](https://img.shields.io/badge/HTML-orange)](https://github.com/yashikapatil27/CIS568-Data-Visualization)
-[![CSS](https://img.shields.io/badge/CSS-purple)](https://github.com/yashikapatil27/CIS568-Data-Visualization)
+[![C/C++](https://img.shields.io/badge/C/C++-green)](https://github.com/yashikapatil27/CodeDaily)
+[![MATLAB](https://img.shields.io/badge/MATLAB-green)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
+[![D3.js](https://img.shields.io/badge/D3.js-green)](https://github.com/yashikapatil27/CIS568-Data-Visualization)
+[![HTML](https://img.shields.io/badge/HTML-green)](https://github.com/yashikapatil27/CIS568-Data-Visualization)
+[![CSS](https://img.shields.io/badge/CSS-green)](https://github.com/yashikapatil27/CIS568-Data-Visualization)
 
 - #### Databases
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-orange)](https://github.com/yashikapatil27/)
-[![SQL](https://img.shields.io/badge/SQL-blue)](https://github.com/yashikapatil27/CIS552-Database-Design)
-[![Azure SQl Database](https://img.shields.io/badge/Azure_SQL_Database-darkblue)](https://github.com/yashikapatil27/CIS552-Database-Design)
-[![CosmosDB](https://img.shields.io/badge/CosmosDB-purple)](https://github.com/yashikapatil27/CIS552-Database-Design)
-[![Graph Databases](https://img.shields.io/badge/Graph_Databases-green)](https://github.com/yashikapatil27/CIS552-Database-Design)
+[![SQL](https://img.shields.io/badge/SQL-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
+[![Azure SQl Database](https://img.shields.io/badge/Azure_SQL_Database-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
+[![CosmosDB](https://img.shields.io/badge/CosmosDB-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
+[![Graph Databases](https://img.shields.io/badge/Graph_Databases-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
 
 - #### Data Skills
 
