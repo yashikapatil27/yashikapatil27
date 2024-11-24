@@ -34,32 +34,32 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 
 - #### Natural Language Processing
 
-[![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-darkgreen)](https://github.com/yashikapatil27/Consumer-Complaint-Classification)
-[![Text Summarization](https://img.shields.io/badge/Text%20Summarization-orange)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
-[![LangChain](https://img.shields.io/badge/LangChain-blue)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
-[![LLMs](https://img.shields.io/badge/LLMs-purple)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
+[![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-yellow)](https://github.com/yashikapatil27/Consumer-Complaint-Classification)
+[![Text Summarization](https://img.shields.io/badge/Text%20Summarization-yellow)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
+[![LangChain](https://img.shields.io/badge/LangChain-yellow)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
+[![LLMs](https://img.shields.io/badge/LLMs-yellow)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
 
 - #### Optimization and Image Processing
 
-[![Optimization](https://img.shields.io/badge/Optimization-blue)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
-[![Image Processing](https://img.shields.io/badge/Image%20Processing-darkorange)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
+[![Optimization](https://img.shields.io/badge/Optimization-cyan)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
+[![Image Processing](https://img.shields.io/badge/Image%20Processing-cyan)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
 [![Signal Processing](https://img.shields.io/badge/Signal%20Processing-cyan)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
 
 - #### Machine Learning and Computer Vision
 
-[![Convolutional Neural Networks (CNN)](https://img.shields.io/badge/CNN-green)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
-[![MXNet](https://img.shields.io/badge/MXNet-purple)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
+[![Convolutional Neural Networks (CNN)](https://img.shields.io/badge/CNN-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
+[![MXNet](https://img.shields.io/badge/MXNet-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
 [![TensorFlow (Keras)](https://img.shields.io/badge/TensorFlow-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
-[![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-yellow)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
-[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue)](https://github.com/yashikapatil27/Computer-Vision)
-[![Object Detection](https://img.shields.io/badge/Object%20Detection-lightblue)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
-[![CUDA](https://img.shields.io/badge/CUDA-orange)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
-[![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-purple)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+[![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-red)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-red)](https://github.com/yashikapatil27/Computer-Vision)
+[![Object Detection](https://img.shields.io/badge/Object%20Detection-red)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
+[![CUDA](https://img.shields.io/badge/CUDA-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+[![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 
 - #### Scikit-Learn and Feature Engineering
 
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-green)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
-[![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-darkgreen)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-purple)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+[![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-purple)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
 
 
 
