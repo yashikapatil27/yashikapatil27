@@ -16,8 +16,8 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![Javascript](https://img.shields.io/badge/Javascript-green)](https://github.com/yashikapatil27/Visualization-of-Mass-Shootings-in-USA)
 [![HTML](https://img.shields.io/badge/HTML-green)](https://github.com/yashikapatil27/Visualization-of-Mass-Shootings-in-USA)
 [![CSS](https://img.shields.io/badge/CSS-green)](https://github.com/yashikapatil27/Visualization-of-Mass-Shootings-in-USA)
-[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-green)](https://github.com/yashikapatil27/CIS520-High-Performance-Scientific-Computing/tree/main)
-[![Bash Scripting](https://img.shields.io/badge/Bash-Scripting-green)](https://github.com/yashikapatil27/CIS520-High-Performance-Scientific-Computing/tree/main)
+[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-green)](https://github.com/yashikapatil27/CIS520-High-Performance-Scientific-Computing/tree/main)
+[![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-green)](https://github.com/yashikapatil27/CIS520-High-Performance-Scientific-Computing/tree/main)
 
 - #### Databases
 
