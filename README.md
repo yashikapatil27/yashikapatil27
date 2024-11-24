@@ -28,9 +28,9 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 - #### Data Skills
 
 [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)](https://github.com/yashikapatil27/Calorie-Counter-Application)
-[![Exploratory Data Analysis](https://img.shields.io/badge/EDA-purple)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main)
-[![Preprocessing](https://img.shields.io/badge/Preprocessing-lightblue)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main)
-[![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main)
+[![Exploratory Data Analysis](https://img.shields.io/badge/EDA-blue)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main)
+[![Preprocessing](https://img.shields.io/badge/Preprocessing-blue)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main)
+[![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-blue)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main)
 
 - #### Natural Language Processing
 
