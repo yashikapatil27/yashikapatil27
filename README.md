@@ -17,6 +17,14 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![HTML](https://img.shields.io/badge/HTML-orange)](https://github.com/yashikapatil27/CIS568-Data-Visualization)
 [![CSS](https://img.shields.io/badge/CSS-purple)](https://github.com/yashikapatil27/CIS568-Data-Visualization)
 
+- #### Databases
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-orange)](https://github.com/yashikapatil27/)
+[![SQL](https://img.shields.io/badge/SQL-blue)](https://github.com/yashikapatil27/CIS552-Database-Design)
+[![Azure SQl Database](https://img.shields.io/badge/Azure_SQL_Database-darkblue)](https://github.com/yashikapatil27/CIS552-Database-Design)
+[![CosmosDB](https://img.shields.io/badge/CosmosDB-purple)](https://github.com/yashikapatil27/CIS552-Database-Design)
+[![Graph Databases](https://img.shields.io/badge/Graph_Databases-green)](https://github.com/yashikapatil27/CIS552-Database-Design)
+
 - #### Data Skills
 
 [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)](https://github.com/yashikapatil27/Calorie-Counter-Application)
@@ -53,13 +61,7 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-green)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 [![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-darkgreen)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
 
-- #### Databases
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-orange)](https://github.com/yashikapatil27/)
-[![SQL](https://img.shields.io/badge/SQL-blue)](https://github.com/yashikapatil27/CIS552-Database-Design)
-[![Azure SQl Database](https://img.shields.io/badge/Azure_SQL_Database-darkblue)](https://github.com/yashikapatil27/CIS552-Database-Design)
-[![CosmosDB](https://img.shields.io/badge/CosmosDB-purple)](https://github.com/yashikapatil27/CIS552-Database-Design)
-[![Graph Databases](https://img.shields.io/badge/Graph_Databases-green)](https://github.com/yashikapatil27/CIS552-Database-Design)
 
 
 <!--
