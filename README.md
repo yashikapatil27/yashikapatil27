@@ -19,7 +19,7 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 
 - #### Databases
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-orange)](https://github.com/yashikapatil27/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
 [![SQL](https://img.shields.io/badge/SQL-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
 [![Azure SQl Database](https://img.shields.io/badge/Azure_SQL_Database-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
 [![CosmosDB](https://img.shields.io/badge/CosmosDB-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
