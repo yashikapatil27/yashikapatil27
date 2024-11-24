@@ -14,8 +14,8 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![C/C++](https://img.shields.io/badge/C/C++-green)](https://github.com/yashikapatil27/CodeDaily)
 [![MATLAB](https://img.shields.io/badge/MATLAB-green)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
 [![D3.js](https://img.shields.io/badge/D3.js-green)](https://github.com/yashikapatil27/Visualization-of-Mass-Shootings-in-USA)
-[![HTML](https://img.shields.io/badge/HTML-green)](https://github.com/yashikapatil27/CIS568-Data-Visualization)
-[![CSS](https://img.shields.io/badge/CSS-green)](https://github.com/yashikapatil27/CIS568-Data-Visualization)
+[![HTML](https://img.shields.io/badge/HTML-green)](https://github.com/yashikapatil27/Visualization-of-Mass-Shootings-in-USA)
+[![CSS](https://img.shields.io/badge/CSS-green)](https://github.com/yashikapatil27/Visualization-of-Mass-Shootings-in-USA)
 
 - #### Databases
 
