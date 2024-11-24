@@ -32,7 +32,7 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
 [![Exploratory Data Analysis](https://img.shields.io/badge/EDA-blue)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
 [![Preprocessing](https://img.shields.io/badge/Preprocessing-blue)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
-[![Feature Engineering](https://img.shields.io/badge/Preprocessing-blue)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
+[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-blue)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
 [![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-blue)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main)
 
 - #### Natural Language Processing
