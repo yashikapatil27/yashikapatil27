@@ -59,13 +59,12 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![CUDA](https://img.shields.io/badge/CUDA-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 [![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 
-- #### Scikit-Learn and Feature Engineering
+- #### Time Series Analysis
 
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-purple)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
-[![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-purple)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
-
-
-
+[![ARIMA](https://img.shields.io/badge/ARIMA-purple)](https://github.com/yashikapatil27/Time-Series-Analysis-and-Forecasting)
+[![SARIMA](https://img.shields.io/badge/SARIMA-purple)](https://github.com/yashikapatil27/Time-Series-Analysis-and-Forecasting)
+[![KPSS](https://img.shields.io/badge/KPSS-purple)](https://github.com/yashikapatil27/Time-Series-Analysis-and-Forecasting)
+[![ACF/PACF](https://img.shields.io/badge/ACF/PACF-purple)](https://github.com/yashikapatil27/Time-Series-Analysis-and-Forecasting)
 
 <!--
 ### 🏆 Achievements
