@@ -40,7 +40,7 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![CosmosDB](https://img.shields.io/badge/CosmosDB-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
 [![Graph Databases](https://img.shields.io/badge/Graph_Databases-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
 
-- #### Data Skills
+- #### Data Preparation Skills
 
 [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
 [![Exploratory Data Analysis](https://img.shields.io/badge/EDA-blue)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
