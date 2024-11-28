@@ -46,14 +46,6 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
 [![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-%23006400)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
 
-- Advanced ML
-[![Fine-tuning Pre-trained Models](https://img.shields.io/badge/Fine--tuning%20Pre--trained%20Models-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
-[![Multimodal Learning](https://img.shields.io/badge/Multimodal%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
-[![Model Optimization](https://img.shields.io/badge/Model%20Optimization-%23006400)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
-[![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-%23006400)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
-[![Optimization](https://img.shields.io/badge/Optimization-%23006400)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
-
-
 <!--[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-red)](https://github.com/yashikapatil27/Computer-Vision)-->
 - Computer Vision
 [![Vision Transformer (ViT)](https://img.shields.io/badge/Vision%20Transformer%20(ViT)-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
@@ -67,6 +59,13 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![LangChain](https://img.shields.io/badge/LangChain-%23006400)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
 [![LLMs](https://img.shields.io/badge/LLMs-%23006400)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
 [![BERT](https://img.shields.io/badge/BERT-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
+
+- Advanced ML
+[![Fine-tuning Pre-trained Models](https://img.shields.io/badge/Fine--tuning%20Pre--trained%20Models-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
+[![Multimodal Learning](https://img.shields.io/badge/Multimodal%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
+[![Model Optimization](https://img.shields.io/badge/Model%20Optimization-%23006400)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+[![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-%23006400)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
+[![Optimization](https://img.shields.io/badge/Optimization-%23006400)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
 
 
 #### Databases and Data Management
