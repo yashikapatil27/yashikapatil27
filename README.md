@@ -28,7 +28,6 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 
 #### Machine Learning and Artificial Intelligence
 - Core Techniques
-
 [![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
 [![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-%23006400)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
 [![Fine-tuning Pre-trained Models](https://img.shields.io/badge/Fine--tuning%20Pre--trained%20Models-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
