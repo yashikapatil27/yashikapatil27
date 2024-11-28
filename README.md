@@ -31,14 +31,14 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![PyTorch](https://img.shields.io/badge/PyTorch-blue)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 
 - Data Science & Machine Learning
-[![Scikit-learn](https://img.shields.io/badge/Scikit%20-learn-%23006400)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase1)
-[![Pandas](https://img.shields.io/badge/Pandas-%23006400)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase1)
-[![NumPy](https://img.shields.io/badge/NumPy-%23006400)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase1)
+[![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-blue)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase1)
+[![Pandas](https://img.shields.io/badge/Pandas-blue)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase1)
+[![NumPy](https://img.shields.io/badge/NumPy-blue)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase1)
 
 - NLP & Text Processing
-[![NLTK](https://img.shields.io/badge/NLTK-%23006400)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase1)
-[![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
-[![SpaCy](https://img.shields.io/badge/SpaCy-%23006400)]()
+[![NLTK](https://img.shields.io/badge/NLTK-blue)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase1)
+[![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-blue)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
+[![SpaCy](https://img.shields.io/badge/SpaCy-blue)]()
 
 
 #### Machine Learning and Artificial Intelligence
