@@ -42,11 +42,11 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 
 - #### Data Preparation Skills
 
-[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-yellow)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
-[![Exploratory Data Analysis](https://img.shields.io/badge/EDA-yellow)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
-[![Preprocessing](https://img.shields.io/badge/Preprocessing-yellow)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
-[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-yellow)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
-[![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main)
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23B8860B)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
+[![Exploratory Data Analysis](https://img.shields.io/badge/EDA-%23B8860B)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
+[![Preprocessing](https://img.shields.io/badge/Preprocessing-%23B8860B)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
+[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-%23B8860B)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
+[![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-%23B8860B)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main)
 
 - #### Natural Language Processing
 
