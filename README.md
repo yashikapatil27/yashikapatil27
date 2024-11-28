@@ -57,9 +57,9 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 
 - #### Optimization and Image Processing
 
-[![Optimization](https://img.shields.io/badge/Optimization-cyan)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
-[![Image Processing](https://img.shields.io/badge/Image%20Processing-cyan)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
-[![Signal Processing](https://img.shields.io/badge/Signal%20Processing-cyan)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
+[![Optimization](https://img.shields.io/badge/Optimization-%23008B8B)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
+[![Image Processing](https://img.shields.io/badge/Image%20Processing-%23008B8B)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
+[![Signal Processing](https://img.shields.io/badge/Signal%20Processing-%23008B8B)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
 
 - #### Time Series Analysis
 
