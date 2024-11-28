@@ -9,7 +9,7 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 
 ### 🌱Skills
 
-- #### Programming Skills
+#### Programming Skills
 [![Python](https://img.shields.io/badge/Python-green)](https://github.com/yashikapatil27/CodeDaily)
 [![C/C++](https://img.shields.io/badge/C/C++-green)](https://github.com/yashikapatil27/CodeDaily)
 [![MATLAB](https://img.shields.io/badge/MATLAB-green)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
@@ -18,29 +18,53 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![CSS](https://img.shields.io/badge/CSS-green)](https://github.com/yashikapatil27/Visualization-of-Mass-Shootings-in-USA)
 [![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-green)](https://github.com/yashikapatil27/CIS520-High-Performance-Scientific-Computing/tree/main)
 [![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-green)](https://github.com/yashikapatil27/CIS520-High-Performance-Scientific-Computing/tree/main)
+[![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-green)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+[![CUDA](https://img.shields.io/badge/CUDA-green)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 
-- #### Frameworks & Libraries
+#### Frameworks & Libraries
 [![MXNet](https://img.shields.io/badge/MXNet-blue)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
 [![TensorFlow (Keras)](https://img.shields.io/badge/TensorFlow-blue)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
 [![PyTorch](https://img.shields.io/badge/PyTorch-blue)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 
-- #### Machine Learning and Computer Vision
-[![Convolutional Neural Networks (CNN)](https://img.shields.io/badge/CNN-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
-[![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-red)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
-[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-red)](https://github.com/yashikapatil27/Computer-Vision)
-[![Object Detection](https://img.shields.io/badge/Object%20Detection-red)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
-[![CUDA](https://img.shields.io/badge/CUDA-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
-[![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
-[![Model Optimization](https://img.shields.io/badge/Model%20Optimization-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+#### Machine Learning and Artificial Intelligence
+- Core Techniques
 
-- #### Databases
-[![MongoDB](https://img.shields.io/badge/MongoDB-%23008B8B)](https://github.com/yashikapatil27/Calorie-Counter-Application)
+[![Multimodal Learning](https://img.shields.io/badge/Multimodal%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
+[![Fine-tuning Pre-trained Models](https://img.shields.io/badge/Fine--tuning%20Pre--trained%20Models-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
+[![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
+[![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-%23006400)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
+[![Model Optimization](https://img.shields.io/badge/Model%20Optimization-%23006400)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+[![Optimization](https://img.shields.io/badge/Optimization-%23006400)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
+[![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-%23006400)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
+
+
+- Computer Vision
+<!--[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-red)](https://github.com/yashikapatil27/Computer-Vision)-->
+[![Vision Transformer (ViT)](https://img.shields.io/badge/Vision%20Transformer%20(ViT)-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
+[![Convolutional Neural Networks (CNN)](https://img.shields.io/badge/CNN-%23006400)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
+[![Object Detection](https://img.shields.io/badge/Object%20Detection-%23006400)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
+[![Image Processing](https://img.shields.io/badge/Image%20Processing-%23006400)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
+
+- Natural Language Processing
+<!--[![Natual Language Processing](https://img.shields.io/badge/Computer%20Vision-red)](https://github.com/yashikapatil27/Computer-Vision)-->
+[![Text Summarization](https://img.shields.io/badge/Text%20Summarization-%23006400)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
+[![LangChain](https://img.shields.io/badge/LangChain-%23006400)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
+[![LLMs](https://img.shields.io/badge/LLMs-%23006400)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
+[![BERT](https://img.shields.io/badge/BERT-%23B8860B)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
+
+
+#### Databases and Data Management
+
+- Relational Databases
 [![SQL](https://img.shields.io/badge/SQL-%23008B8B)](https://github.com/yashikapatil27/CIS552-Database-Design)
 [![Azure SQl Database](https://img.shields.io/badge/Azure_SQL_Database-%23008B8B)](https://github.com/yashikapatil27/CIS552-Database-Design)
+
+- NoSQL Databases
+[![MongoDB](https://img.shields.io/badge/MongoDB-%23008B8B)](https://github.com/yashikapatil27/Calorie-Counter-Application)
 [![CosmosDB](https://img.shields.io/badge/CosmosDB-%23008B8B)](https://github.com/yashikapatil27/CIS552-Database-Design)
 [![Graph Databases](https://img.shields.io/badge/Graph_Databases-%23008B8B)](https://github.com/yashikapatil27/CIS552-Database-Design)
 
-- #### Data Preparation Skills
+#### Data Preparation and Analysis
 
 [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23B8860B)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
 [![Exploratory Data Analysis](https://img.shields.io/badge/EDA-%23B8860B)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
@@ -48,20 +72,7 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-%23B8860B)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
 [![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-%23B8860B)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main)
 
-- #### Natural Language Processing
-
-[![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-%23006400)](https://github.com/yashikapatil27/Consumer-Complaint-Classification)
-[![Text Summarization](https://img.shields.io/badge/Text%20Summarization-%23006400)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
-[![LangChain](https://img.shields.io/badge/LangChain-%23006400)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
-[![LLMs](https://img.shields.io/badge/LLMs-%23006400)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
-
-- #### Optimization and Image Processing
-
-[![Optimization](https://img.shields.io/badge/Optimization-%23654321)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
-[![Image Processing](https://img.shields.io/badge/Image%20Processing-%23654321)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
-[![Signal Processing](https://img.shields.io/badge/Signal%20Processing-%23654321)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
-
-- #### Time Series Analysis
+#### Time Series Analysis
 
 [![ARIMA](https://img.shields.io/badge/ARIMA-purple)](https://github.com/yashikapatil27/Time-Series-Analysis-and-Forecasting)
 [![SARIMA](https://img.shields.io/badge/SARIMA-purple)](https://github.com/yashikapatil27/Time-Series-Analysis-and-Forecasting)
