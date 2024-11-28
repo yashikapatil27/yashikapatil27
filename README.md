@@ -19,8 +19,21 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-green)](https://github.com/yashikapatil27/CIS520-High-Performance-Scientific-Computing/tree/main)
 [![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-green)](https://github.com/yashikapatil27/CIS520-High-Performance-Scientific-Computing/tree/main)
 
-- #### Databases
+- #### Frameworks & Libraries
+[![MXNet](https://img.shields.io/badge/MXNet-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
+[![TensorFlow (Keras)](https://img.shields.io/badge/TensorFlow-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
+[![PyTorch](https://img.shields.io/badge/PyTorch-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 
+- #### Machine Learning and Computer Vision
+[![Convolutional Neural Networks (CNN)](https://img.shields.io/badge/CNN-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
+[![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-red)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-red)](https://github.com/yashikapatil27/Computer-Vision)
+[![Object Detection](https://img.shields.io/badge/Object%20Detection-red)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
+[![CUDA](https://img.shields.io/badge/CUDA-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+[![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+[![Model Optimization](https://img.shields.io/badge/Model%20Optimization-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+
+- #### Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-orange)](https://github.com/yashikapatil27/Calorie-Counter-Application)
 [![SQL](https://img.shields.io/badge/SQL-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
 [![Azure SQl Database](https://img.shields.io/badge/Azure_SQL_Database-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
@@ -47,18 +60,6 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![Optimization](https://img.shields.io/badge/Optimization-cyan)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
 [![Image Processing](https://img.shields.io/badge/Image%20Processing-cyan)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
 [![Signal Processing](https://img.shields.io/badge/Signal%20Processing-cyan)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
-
-- #### Machine Learning and Computer Vision
-
-[![Convolutional Neural Networks (CNN)](https://img.shields.io/badge/CNN-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
-[![MXNet](https://img.shields.io/badge/MXNet-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
-[![TensorFlow (Keras)](https://img.shields.io/badge/TensorFlow-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
-[![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-red)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
-[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-red)](https://github.com/yashikapatil27/Computer-Vision)
-[![Object Detection](https://img.shields.io/badge/Object%20Detection-red)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
-[![CUDA](https://img.shields.io/badge/CUDA-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
-[![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
-[![Model Optimization](https://img.shields.io/badge/Model%20Optimization-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 
 - #### Time Series Analysis
 
