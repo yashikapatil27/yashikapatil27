@@ -34,11 +34,11 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![Model Optimization](https://img.shields.io/badge/Model%20Optimization-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 
 - #### Databases
-[![MongoDB](https://img.shields.io/badge/MongoDB-%23F0E68C)](https://github.com/yashikapatil27/Calorie-Counter-Application)
-[![SQL](https://img.shields.io/badge/SQL-%23F0E68C)](https://github.com/yashikapatil27/CIS552-Database-Design)
-[![Azure SQl Database](https://img.shields.io/badge/Azure_SQL_Database-%23F0E68C)](https://github.com/yashikapatil27/CIS552-Database-Design)
-[![CosmosDB](https://img.shields.io/badge/CosmosDB-%23F0E68C)](https://github.com/yashikapatil27/CIS552-Database-Design)
-[![Graph Databases](https://img.shields.io/badge/Graph_Databases-%23F0E68C)](https://github.com/yashikapatil27/CIS552-Database-Design)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%23654321)](https://github.com/yashikapatil27/Calorie-Counter-Application)
+[![SQL](https://img.shields.io/badge/SQL-%23654321)](https://github.com/yashikapatil27/CIS552-Database-Design)
+[![Azure SQl Database](https://img.shields.io/badge/Azure_SQL_Database-%23654321)](https://github.com/yashikapatil27/CIS552-Database-Design)
+[![CosmosDB](https://img.shields.io/badge/CosmosDB-%23654321)](https://github.com/yashikapatil27/CIS552-Database-Design)
+[![Graph Databases](https://img.shields.io/badge/Graph_Databases-%23654321)](https://github.com/yashikapatil27/CIS552-Database-Design)
 
 - #### Data Preparation Skills
 
