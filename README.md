@@ -58,6 +58,7 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![Object Detection](https://img.shields.io/badge/Object%20Detection-red)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
 [![CUDA](https://img.shields.io/badge/CUDA-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 [![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+[![Model Optimization](https://img.shields.io/badge/Model%20Optimization-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 
 - #### Time Series Analysis
 
