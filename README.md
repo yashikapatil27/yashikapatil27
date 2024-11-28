@@ -46,10 +46,16 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
 [![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-%23006400)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
 
+- Deep Learning and Neural Networks
+[![Convolutional Neural Networks (CNN)](https://img.shields.io/badge/CNN-%23006400)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
+[![Recurrent Neural Networks (RNN)](https://img.shields.io/badge/RNN-%23006400)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase2)
+[![Long Short-Term Memory (LSTM)](https://img.shields.io/badge/LSTM-%23006400)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase2)
+[![Attention Mechanism and Transformer](https://img.shields.io/badge/Attention%20Mechanism%20and%20Transformers-%23006400)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase2)
+
+
 <!--[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-red)](https://github.com/yashikapatil27/Computer-Vision)-->
 - Computer Vision
 [![Vision Transformer (ViT)](https://img.shields.io/badge/Vision%20Transformer%20(ViT)-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
-[![Convolutional Neural Networks (CNN)](https://img.shields.io/badge/CNN-%23006400)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
 [![Object Detection](https://img.shields.io/badge/Object%20Detection-%23006400)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
 [![Image Processing](https://img.shields.io/badge/Image%20Processing-%23006400)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
 
@@ -66,6 +72,7 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![Model Optimization](https://img.shields.io/badge/Model%20Optimization-%23006400)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 [![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-%23006400)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
 [![Optimization](https://img.shields.io/badge/Optimization-%23006400)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
+[![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-blue)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
 
 
 #### Databases and Data Management
