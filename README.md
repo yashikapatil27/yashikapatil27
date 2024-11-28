@@ -20,9 +20,9 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-green)](https://github.com/yashikapatil27/CIS520-High-Performance-Scientific-Computing/tree/main)
 
 - #### Frameworks & Libraries
-[![MXNet](https://img.shields.io/badge/MXNet-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
-[![TensorFlow (Keras)](https://img.shields.io/badge/TensorFlow-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
-[![PyTorch](https://img.shields.io/badge/PyTorch-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+[![MXNet](https://img.shields.io/badge/MXNet-yellow)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
+[![TensorFlow (Keras)](https://img.shields.io/badge/TensorFlow-yellow)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
+[![PyTorch](https://img.shields.io/badge/PyTorch-ywllow)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 
 - #### Machine Learning and Computer Vision
 [![Convolutional Neural Networks (CNN)](https://img.shields.io/badge/CNN-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
@@ -50,10 +50,10 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 
 - #### Natural Language Processing
 
-[![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-yellow)](https://github.com/yashikapatil27/Consumer-Complaint-Classification)
-[![Text Summarization](https://img.shields.io/badge/Text%20Summarization-yellow)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
-[![LangChain](https://img.shields.io/badge/LangChain-yellow)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
-[![LLMs](https://img.shields.io/badge/LLMs-yellow)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
+[![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-pink)](https://github.com/yashikapatil27/Consumer-Complaint-Classification)
+[![Text Summarization](https://img.shields.io/badge/Text%20Summarization-pink)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
+[![LangChain](https://img.shields.io/badge/LangChain-pink)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
+[![LLMs](https://img.shields.io/badge/LLMs-pink)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
 
 - #### Optimization and Image Processing
 
