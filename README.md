@@ -28,13 +28,16 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 
 #### Machine Learning and Artificial Intelligence
 - Core Techniques
-[![Multimodal Learning](https://img.shields.io/badge/Multimodal%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
-[![Fine-tuning Pre-trained Models](https://img.shields.io/badge/Fine--tuning%20Pre--trained%20Models-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
+
 [![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
 [![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-%23006400)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
+[![Fine-tuning Pre-trained Models](https://img.shields.io/badge/Fine--tuning%20Pre--trained%20Models-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
 [![Model Optimization](https://img.shields.io/badge/Model%20Optimization-%23006400)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
-[![Optimization](https://img.shields.io/badge/Optimization-%23006400)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
 [![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-%23006400)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
+
+- Advanced Topics
+[![Multimodal Learning](https://img.shields.io/badge/Multimodal%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
+[![Optimization](https://img.shields.io/badge/Optimization-%23006400)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
 
 <!--[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-red)](https://github.com/yashikapatil27/Computer-Vision)-->
 - Computer Vision
