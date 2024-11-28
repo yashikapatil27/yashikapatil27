@@ -28,7 +28,6 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 
 #### Machine Learning and Artificial Intelligence
 - Core Techniques
-
 [![Multimodal Learning](https://img.shields.io/badge/Multimodal%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
 [![Fine-tuning Pre-trained Models](https://img.shields.io/badge/Fine--tuning%20Pre--trained%20Models-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
 [![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
@@ -37,20 +36,19 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![Optimization](https://img.shields.io/badge/Optimization-%23006400)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
 [![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-%23006400)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
 
-
-- Computer Vision
 <!--[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-red)](https://github.com/yashikapatil27/Computer-Vision)-->
+- Computer Vision
 [![Vision Transformer (ViT)](https://img.shields.io/badge/Vision%20Transformer%20(ViT)-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
 [![Convolutional Neural Networks (CNN)](https://img.shields.io/badge/CNN-%23006400)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
 [![Object Detection](https://img.shields.io/badge/Object%20Detection-%23006400)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
 [![Image Processing](https://img.shields.io/badge/Image%20Processing-%23006400)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
 
-- Natural Language Processing
 <!--[![Natual Language Processing](https://img.shields.io/badge/Computer%20Vision-red)](https://github.com/yashikapatil27/Computer-Vision)-->
+- Natural Language Processing
 [![Text Summarization](https://img.shields.io/badge/Text%20Summarization-%23006400)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
 [![LangChain](https://img.shields.io/badge/LangChain-%23006400)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
 [![LLMs](https://img.shields.io/badge/LLMs-%23006400)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
-[![BERT](https://img.shields.io/badge/BERT-%23B8860B)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
+[![BERT](https://img.shields.io/badge/BERT-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
 
 
 #### Databases and Data Management
