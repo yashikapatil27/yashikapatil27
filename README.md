@@ -50,10 +50,10 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 
 - #### Natural Language Processing
 
-[![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-pink)](https://github.com/yashikapatil27/Consumer-Complaint-Classification)
-[![Text Summarization](https://img.shields.io/badge/Text%20Summarization-pink)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
-[![LangChain](https://img.shields.io/badge/LangChain-pink)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
-[![LLMs](https://img.shields.io/badge/LLMs-pink)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
+[![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-%23C71585)](https://github.com/yashikapatil27/Consumer-Complaint-Classification)
+[![Text Summarization](https://img.shields.io/badge/Text%20Summarization-%23C71585)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
+[![LangChain](https://img.shields.io/badge/LangChain-%23C71585)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
+[![LLMs](https://img.shields.io/badge/LLMs-%23C71585)](https://github.com/yashikapatil27/RAG-vs.-NLP-for-Text-Summarization-Question-Answering)
 
 - #### Optimization and Image Processing
 
