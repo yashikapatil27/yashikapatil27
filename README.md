@@ -22,7 +22,7 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 - #### Frameworks & Libraries
 [![MXNet](https://img.shields.io/badge/MXNet-yellow)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
 [![TensorFlow (Keras)](https://img.shields.io/badge/TensorFlow-yellow)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
-[![PyTorch](https://img.shields.io/badge/PyTorch-ywllow)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+[![PyTorch](https://img.shields.io/badge/PyTorch-yellow)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 
 - #### Machine Learning and Computer Vision
 [![Convolutional Neural Networks (CNN)](https://img.shields.io/badge/CNN-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
@@ -34,7 +34,7 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![Model Optimization](https://img.shields.io/badge/Model%20Optimization-red)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 
 - #### Databases
-[![MongoDB](https://img.shields.io/badge/MongoDB-orange)](https://github.com/yashikapatil27/Calorie-Counter-Application)
+[![MongoDB](https://img.shields.io/badge/MongoDB-light-blue)](https://github.com/yashikapatil27/Calorie-Counter-Application)
 [![SQL](https://img.shields.io/badge/SQL-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
 [![Azure SQl Database](https://img.shields.io/badge/Azure_SQL_Database-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
 [![CosmosDB](https://img.shields.io/badge/CosmosDB-orange)](https://github.com/yashikapatil27/CIS552-Database-Design)
