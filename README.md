@@ -20,9 +20,9 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 [![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-green)](https://github.com/yashikapatil27/CIS520-High-Performance-Scientific-Computing/tree/main)
 
 - #### Frameworks & Libraries
-[![MXNet](https://img.shields.io/badge/MXNet-yellow)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
-[![TensorFlow (Keras)](https://img.shields.io/badge/TensorFlow-yellow)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
-[![PyTorch](https://img.shields.io/badge/PyTorch-yellow)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+[![MXNet](https://img.shields.io/badge/MXNet-blue)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
+[![TensorFlow (Keras)](https://img.shields.io/badge/TensorFlow-blue)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
+[![PyTorch](https://img.shields.io/badge/PyTorch-blue)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 
 - #### Machine Learning and Computer Vision
 [![Convolutional Neural Networks (CNN)](https://img.shields.io/badge/CNN-red)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
@@ -42,11 +42,11 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 
 - #### Data Preparation Skills
 
-[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
-[![Exploratory Data Analysis](https://img.shields.io/badge/EDA-blue)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
-[![Preprocessing](https://img.shields.io/badge/Preprocessing-blue)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
-[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-blue)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
-[![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-blue)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main)
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-yellow)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
+[![Exploratory Data Analysis](https://img.shields.io/badge/EDA-yellow)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
+[![Preprocessing](https://img.shields.io/badge/Preprocessing-yellow)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
+[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-yellow)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
+[![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main)
 
 - #### Natural Language Processing
 
