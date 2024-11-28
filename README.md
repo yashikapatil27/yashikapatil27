@@ -10,33 +10,49 @@ My current research focuses on advancing Visual Reasoning and involving Chain-of
 ### 🌱Skills
 
 #### Programming Skills
+- Languages
 [![Python](https://img.shields.io/badge/Python-green)](https://github.com/yashikapatil27/CodeDaily)
 [![C/C++](https://img.shields.io/badge/C/C++-green)](https://github.com/yashikapatil27/CodeDaily)
 [![MATLAB](https://img.shields.io/badge/MATLAB-green)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
 [![Javascript](https://img.shields.io/badge/Javascript-green)](https://github.com/yashikapatil27/CIS568-Data-Visualization)
 [![HTML](https://img.shields.io/badge/HTML-green)](https://github.com/yashikapatil27/Visualization-of-Mass-Shootings-in-USA)
 [![CSS](https://img.shields.io/badge/CSS-green)](https://github.com/yashikapatil27/Visualization-of-Mass-Shootings-in-USA)
+
+- Tools & Concepts
 [![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-green)](https://github.com/yashikapatil27/CIS520-High-Performance-Scientific-Computing/tree/main)
 [![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-green)](https://github.com/yashikapatil27/CIS520-High-Performance-Scientific-Computing/tree/main)
 [![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-green)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 [![CUDA](https://img.shields.io/badge/CUDA-green)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 
 #### Frameworks & Libraries
+- Deep Learning
 [![MXNet](https://img.shields.io/badge/MXNet-blue)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
 [![TensorFlow (Keras)](https://img.shields.io/badge/TensorFlow-blue)](https://github.com/yashikapatil27/MXNet-Vs.-TensorFlow-A-Comparative-Analysis-for-Intel-Image-Classification)
 [![PyTorch](https://img.shields.io/badge/PyTorch-blue)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
+
+- Data Science & Machine Learning
+[![Scikit-learn](https://img.shields.io/badge/Scikit%20-learn-%23006400)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase1)
+[![Pandas](https://img.shields.io/badge/Pandas-%23006400)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase1)
+[![NumPy](https://img.shields.io/badge/NumPy-%23006400)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase1)
+
+- NLP & Text Processing
+[![NLTK](https://img.shields.io/badge/NLTK-%23006400)](https://github.com/yashikapatil27/Consumer-Complaint-Classification/tree/main/CODE/Phase1)
+[![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
+[![SpaCy](https://img.shields.io/badge/SpaCy-%23006400)]()
+
 
 #### Machine Learning and Artificial Intelligence
 - Core Techniques
 [![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
 [![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-%23006400)](https://github.com/yashikapatil27/Unsupervised-Learning-on-Chicago-Crime-Dataset)
+
+- Advanced ML
 [![Fine-tuning Pre-trained Models](https://img.shields.io/badge/Fine--tuning%20Pre--trained%20Models-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
+[![Multimodal Learning](https://img.shields.io/badge/Multimodal%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
 [![Model Optimization](https://img.shields.io/badge/Model%20Optimization-%23006400)](https://github.com/yashikapatil27/Sign-Language-Recognition/blob/main/Sign_Language_Recognition.ipynb)
 [![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-%23006400)](https://github.com/yashikapatil27/Human-Detection-in-Video-with-Parallel-Processing)
-
-- Advanced Topics
-[![Multimodal Learning](https://img.shields.io/badge/Multimodal%20Learning-%23006400)](https://github.com/yashikapatil27/Multimedia-Automatic-Misogyny-Detection-MAMI)
 [![Optimization](https://img.shields.io/badge/Optimization-%23006400)](https://github.com/yashikapatil27/VFA-T1-Mapping-using-Derivative-Free-Optimization-techniques)
+
 
 <!--[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-red)](https://github.com/yashikapatil27/Computer-Vision)-->
 - Computer Vision
