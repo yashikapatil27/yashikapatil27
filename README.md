@@ -7,6 +7,9 @@ I’m a Data Science grad student at UMass Dartmouth with a Bachelor of Science 
 ### 🔭 Active Research
 My current research focuses on advancing Visual Reasoning and involving Chain-of-Thought strategies to improve interpretation and decision-making in Vision Language Models (VLMs) and Large Language Models (LLMs). Using benchmarks and reasoning strategies, I aim to push the boundaries of AI perception, reliability, and safety.
 
+### 🌐 Portfolio
+Check out my portfolio: [My Portfolio](https://yashikapatil27.github.io/MyPortfolio/)
+
 ### 🌱Skills
 
 #### Programming Skills
